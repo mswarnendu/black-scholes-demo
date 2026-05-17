@@ -13,6 +13,7 @@ The call option price was computed using the Black-Scholes formula:
 C = S · N(d1) − K · e^(−rT) · N(d2)
 
 Where:
+- C: call price
 - S: underlying stock price
 - K: strike price
 - r: risk free rate (assumed to be 0.04)
